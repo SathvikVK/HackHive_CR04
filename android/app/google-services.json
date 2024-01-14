@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662522172667",
+    "project_id": "dealsense-64d3a",
+    "storage_bucket": "dealsense-64d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662522172667:android:211dc662976c52d34b4c5e",
+        "android_client_info": {
+          "package_name": "com.hackhive.dealsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4e7y4lrKkInHO9oiYvlcUjghJhK4eK88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
